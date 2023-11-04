@@ -1,2 +1,22 @@
+form{
+    text-align:center;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
-/* Write Your CSS Here */
+.form1{
+    background-color: pink;
+}
+
+.form2{
+    background-color: yellow;
+}
+
+.form3{
+    background-color: green;
+    width:50%;
+}
+/* W
+rite Your CSS Here */
